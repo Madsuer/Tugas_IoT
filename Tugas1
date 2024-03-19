@@ -1,0 +1,42 @@
+Achmad Rausyan Fiker(09021382126157)
+
+1.) Sejarah Singkat IoT
+- Istilah "Internet of Things" (IoT) pertama kali dicetuskan pada tahun 1999 oleh Kevin Ashton saat melakukan presentasi untuk perusahaan Procter & Gamble (P&G). Ia menjelaskan mengenai teknologi yang menghubungkan berbagai perangkat dengan bantuan RFID (radio frequency identification) dan mengatur semuanya dengan komputer.
+Meskipun istilah IoT baru muncul pada tahun 1999, konsep perangkat yang terhubung (connected devices) sudah ada sejak tahun 1832. Pada tahun itu, Charles Babbage merancang Analytical Engine, sebuah mesin komputasi mekanis yang dapat diprogram dengan kartu punch.
+
+- Perangkat IoT pertama di dunia ditemukan pada awal 1980-an di Universitas Carnegie Mellon, USA. Sekelompok mahasiswa di universitas tersebut menciptakan cara agar mesin penjual otomatis Coca-Cola di kampus mereka dapat melaporkan isinya melalui sebuah jaringan.
+
+- Tahun 1999, Kevin Ashton, seorang co-founder Auto-ID Lab MIT, menciptakan "The Internet of Things". Mereka juga menemukan peralatan berbasis RFID (Radio Frequency Identification) global yang sistem identifikasi pada tahun yang sama. Penemuan ini disebut sebagai sebuah lompatan besar dalam commercializing IoT.
+
+- Tahun 2008, istilah IoT mulai dikenal luas dan dikokohkan dengan konferensi internasional pertama membahas internet of things yang diadakan di Swiss dan dihadiri peserta dari 23 negara.
+
+Definisi IoT
+IoT adalah sebuah konsep yang menghubungkan berbagai perangkat fisik (seperti sensor, aktuator, dan komputer) ke internet. Perangkat-perangkat ini dapat mengumpulkan dan bertukar data secara real-time, dan dapat dikontrol dari jarak jauh.
+
+
+2.) Referensi Model IoT
+- Model terpusat: Dalam model ini, semua perangkat IoT terhubung ke server pusat. Server pusat ini bertanggung jawab untuk mengumpulkan data, mengontrol perangkat, dan menyediakan layanan.
+
+- Model terdesentralisasi: Dalam model ini, perangkat IoT terhubung satu sama lain secara langsung. Tidak ada server pusat, dan setiap perangkat bertanggung jawab untuk mengelola datanya sendiri.
+
+- Model hybrid: Model ini adalah kombinasi dari model terpusat dan terdesentralisasi. Dalam model ini, beberapa perangkat IoT terhubung ke server pusat, dan perangkat lain terhubung satu sama lain secara langsung.
+
+
+3.)Kebutuhan IoT dalam Bidang Kesehatan
+- Pemantauan pasien jarak jauh: Perangkat IoT dapat digunakan untuk memantau kondisi pasien dari jarak jauh, seperti tekanan darah, detak jantung, dan kadar gula darah. Hal ini memungkinkan dokter untuk memberikan perawatan yang lebih tepat dan efisien.
+
+- Diagnosis dini: Perangkat IoT dapat digunakan untuk mendiagnosis penyakit lebih dini, sehingga memungkinkan pasien untuk mendapatkan pengobatan yang lebih cepat dan efektif.
+
+- Pengobatan yang dipersonalisasi: Perangkat IoT dapat digunakan untuk memberikan pengobatan yang dipersonalisasi untuk setiap pasien, berdasarkan data kesehatan mereka.
+
+- Peningkatan efisiensi rumah sakit: Perangkat IoT dapat digunakan untuk meningkatkan efisiensi rumah sakit, seperti melacak persediaan obat-obatan dan peralatan medis.
+
+
+4.)Contoh Implementasi IoT dalam Sehari-hari
+- Smart home: Perangkat IoT dapat digunakan untuk mengontrol perangkat elektronik di rumah, seperti lampu, termostat, dan peralatan dapur.
+
+- Smart city: Perangkat IoT dapat digunakan untuk mengelola infrastruktur kota, seperti lampu jalan, sistem transportasi, dan tempat sampah.
+
+- Wearables: Perangkat IoT dapat digunakan untuk melacak aktivitas fisik, memantau kesehatan, dan memberikan informasi dan hiburan.
+
+- Industri: Perangkat IoT dapat digunakan untuk meningkatkan efisiensi dan produktivitas industri, seperti melacak persediaan, memantau kondisi mesin, dan mengoptimalkan proses produksi.
